@@ -1,2 +1,2 @@
-# organize-it-for-me
-um programa em terminal que visa organizar os estudos através de um cronograma em auxílio à um cronômetro para melhorar o foco.
+
+[README.md](https://github.com/leticiadutra22-23/organize-it-for-me/files/8371795/README.md)
