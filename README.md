@@ -50,7 +50,7 @@
 
 <em> 📐 ~em construção... </em>
 
-### demonstração de aplicação 👾
+### ~demonstração de aplicação 👾
 
 Agora, você deve estar se perguntando... Como utilizar o programa? É bem simples e você pode testar por si mesmo no Replit facilmente!
 https://replit.com/@MariaLetcia4/organizeit?v=1
